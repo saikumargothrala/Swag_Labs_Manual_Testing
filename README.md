@@ -4,10 +4,10 @@
 
 <h2>Documents</h2>
 <ul>
-    <li><a href="Bug Report(Swag Labs).xlsx">Swag Labs Bug Report.docx</a> - A document for reporting any bugs or issues encountered during testing.</li>
-    <li><a href="Test Plan(Swag Labs).pdf">Swag Labs Test Plan.docx</a> - The overall test plan outlining the scope, objectives, and approach for testing.</li>
-    <li><a href="Test Cases (Swag Labs).xlsx">Test Cases Swag Labs.xlsx</a> - A spreadsheet containing detailed test cases for various functionalities of the application.</li>
-    <li><a href="Test Report (Swag Labs).xlsx">Test Report Swag Labs.docx</a> - A comprehensive test report summarizing the results of the executed tests.</li>
+    <li><a href="Bug Report(Swag Labs).xlsx">Bug Report(Swag Labs).xlsx</a> - A document for reporting any bugs or issues encountered during testing.</li>
+    <li><a href="Test Plan(Swag Labs).pdf">Test Plan(Swag Labs).pdf</a> - The overall test plan outlining the scope, objectives, and approach for testing.</li>
+    <li><a href="Test Cases (Swag Labs).xlsx">Test Cases (Swag Labs).xlsx</a> - A spreadsheet containing detailed test cases for various functionalities of the application.</li>
+    <li><a href="Test Report (Swag Labs).xlsx">Test Report (Swag Labs).xlsx</a> - A comprehensive test report summarizing the results of the executed tests.</li>
 </ul>
 
 <h2>Purpose</h2>

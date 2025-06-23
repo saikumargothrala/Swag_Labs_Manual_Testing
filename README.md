@@ -1,5 +1,4 @@
-# Swag_Labs_Manual_Testing
-<h1>Swag Labs Manual Testing Documentation</h1>
+<h1>Swag Labs Manual Testing</h1>
 
 <p>This repository contains essential documentation for manual testing of the Swag Labs eCommerce platform. The documents included in this repository are designed to guide you through the testing process and ensure comprehensive coverage of the application.</p>
 
